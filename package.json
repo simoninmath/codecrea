@@ -1,0 +1,19 @@
+{
+  "name": "codecrea",
+  "version": "1.0.0",
+  "description": "creative code with JS",
+  "main": "creativecode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simoninmath/codecrea.git"
+  },
+  "author": "Mathieu SIMONIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simoninmath/codecrea/issues"
+  },
+  "homepage": "https://github.com/simoninmath/codecrea#readme"
+}
