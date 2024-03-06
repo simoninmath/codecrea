@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/simoninmath/codecrea/issues"
   },
-  "homepage": "https://github.com/simoninmath/codecrea#readme"
+  "homepage": "https://github.com/simoninmath/codecrea#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.7"
+  }
 }
